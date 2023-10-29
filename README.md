@@ -1,7 +1,9 @@
 # Monty hall
-Simulation of the famously unintuitive Monty Hall Problem.
+Simulate the Monty Hall Problem, known for its counterintuitive nature:
 
-Imagine you are on a gameshow, in front of you are three doors. Behing two on them is a goat and behind the last one is $1,000,000. The host asks you to pick a door, you recieve whatever is behind it. After you select a door, the host opens one of the remaining doors and reveals that behind it was a goat. Following this they give you a choice, do you want to stick with your door or switch to the other closed one? 
+Picture yourself on a gameshow stage with three doors. Behind two of these doors lurk goats, while the remaining door hides a tempting $1,000,000 prize. The host instructs you to select one of the doors, and whatever is concealed behind it becomes yours.
+
+Once you make your choice, the host proceeds to open one of the two unchosen doors, revealing a goat. At this point, you face a pivotal decision: will you remain steadfast with your original selection or opt to switch to the other unopened door?
 
 ## C
 In the folder `./C/`, you can find a simulation of this problem a compiled program and a results file.
